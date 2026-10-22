@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Menunjukkan lokasi sitemap secara otomatis ke Googlebot
+Sitemap: https://thenewsday112.github.io/germany/sitemap.xml
